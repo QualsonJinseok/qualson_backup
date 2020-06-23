@@ -1,0 +1,4 @@
+[39188:13508:0212/122256.694:WARNING:discovery_network_list_win.cc(196)] Failed to open Wlan client handle: 1062
+[39188:43220:0212/122259.331:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "username"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.instagram.com/ (0)
+[39188:43220:0212/122259.599:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[39188:43220:0212/122259.599:WARNING:pref_notifier_impl.cc(40)] Pref observer for browser.relaunch_notification_period found at shutdown.
